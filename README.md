@@ -22,8 +22,16 @@ Machine learning also has to do with facial recognition, voice recognition and c
 better chess than humans.
 ---
 
+Mia L. Morton
+
+LinkedIn
+https://www.linkedin.com/in/mia-l-morton-7133b1139/
+___
+
 Resources:
 https://mlcorner.com/should-i-learn-machine-learning-or-data-science-first/
 ---
 https://machinelearningmastery.com/blog/
+
 ---# MachineLearning-Projects
+
